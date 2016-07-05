@@ -41,7 +41,8 @@ AngularJs：
  - [深入理解ANGULARUI路由_UI-ROUTER](http://www.html5jq.com/fe/angular_node/20150417/133.html)
  - [AngularJS5个实例详解Directive（指令）机制](http://damoqiongqiu.iteye.com/blog/1917971)
  - [AngularJs几个小DEMO](http://tutorialzine.com/2013/08/learn-angularjs-5-examples/)
- - [AngularJs跨域问题](http://stackoverflow.com/questions/22546177/cross-domain-http-request-angularjs)
+ - [AngularJs跨域问题1](http://stackoverflow.com/questions/22546177/cross-domain-http-request-angularjs)
+ - [AngularJs跨域问题2](http://stackoverflow.com/questions/12066002/parsing-jsonp-http-jsonp-response-in-angular-js)
 
 Ajax:
 
