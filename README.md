@@ -71,3 +71,9 @@ Web前端优化：
  - [常用的web组件](http://www.open-open.com/lib/view/open1426560455039.html)
  - [最强注释](http://megaemoji.com/cn/text-art/)
  - [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
+
+
+nodeJs：
+
+ - [Node.js server.address().address returns ::](http://stackoverflow.com/questions/33853695/node-js-server-address-address-returns/33854153)
+ -
