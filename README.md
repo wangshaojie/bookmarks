@@ -56,6 +56,7 @@ gulp/fis
 
  - [fis编译时不编译ie条件语句的问题](https://github.com/fex-team/fis3/issues/271)
  - [gulp合并js文件](http://stackoverflow.com/questions/26719884/gulp-minify-multiple-js-files-to-one)
+ - [给压缩后的 js增加.min](http://stackoverflow.com/questions/27916062/gulp-uglify-output-min-js)
 
 Git：
 
