@@ -33,7 +33,8 @@ Javaccript/jQuery：
 
  - [移动端原生JS实现手指跟随的触控滑动](https://segmentfault.com/a/1190000003817077)
  - [你可能不知道jQuery的事情](http://ejohn.org/apps/workshop/adv-talk/#1)
-- [创建一个jQuery插件](http://devheart.org/articles/tutorial-creating-a-jquery-plugin/)
+ - [创建一个jQuery插件](http://devheart.org/articles/tutorial-creating-a-jquery-plugin/)
+ - [50个必备的实用jQuery代码段](http://www.bywei.cn/post/207.html)
 
 AngularJs：
 
