@@ -14,7 +14,6 @@ ________
 Css:
 
  - [使用Compass制作Sprite精灵地图](http://www.sassplus.com/sass/sprites.html)
- - [移动H5前端性能优化指南](http://blog.csdn.net/kongjiea/article/details/43967219)
  -  [移动web资源整理](http://www.cnblogs.com/PeunZhang/p/3407453.html)
  - [美丽的css在线样式](http://cssdeck.com/picks/2)
  - [css术语](http://apps.workflower.fi/vocabs/)
@@ -68,13 +67,15 @@ Web前端优化：
 
  - [Web前端优化最佳实践及工具集锦](http://www.csdn.net/article/2013-09-23/2817020-web-performance-optimization)
  - [前端性能优化最佳实践](https://csspod.com/frontend-performance-best-practices/#content-http)
+ - [移动H5前端性能优化指南](http://blog.csdn.net/kongjiea/article/details/43967219)
+ - [HTTP/2 与 WEB 性能优化](https://imququ.com/post/http2-and-wpo-1.html)
 
 其他：
 
  - [常用的web组件](http://www.open-open.com/lib/view/open1426560455039.html)
  - [最强注释](http://megaemoji.com/cn/text-art/)
  - [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
-
+ - [从输入 URL 到页面加载完成的过程中都发生了什么事情？](http://div.io/topic/457)
 
 nodeJs：
 
