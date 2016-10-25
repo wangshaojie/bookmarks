@@ -69,6 +69,7 @@ Web前端优化：
  - [前端性能优化最佳实践](https://csspod.com/frontend-performance-best-practices/#content-http)
  - [移动H5前端性能优化指南](http://blog.csdn.net/kongjiea/article/details/43967219)
  - [HTTP/2 与 WEB 性能优化](https://imququ.com/post/http2-and-wpo-1.html)
+ - [免费web的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN#web)
 
 其他：
 
