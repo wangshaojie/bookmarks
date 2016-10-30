@@ -47,6 +47,7 @@ AngularJs：
 Ajax:
 
  - [Ajax jQuery全解析](http://www.cnblogs.com/QLeelulu/archive/2008/04/21/1163021.html) 
+ - [jquery实现兼容IE8的异步上传文件](http://www.jb51.net/article/67849.htm)
 
 canvas：
 
