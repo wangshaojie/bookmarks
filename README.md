@@ -14,15 +14,15 @@ ________
 Css:
 
  - [使用Compass制作Sprite精灵地图](http://www.sassplus.com/sass/sprites.html)
- -  [移动web资源整理](http://www.cnblogs.com/PeunZhang/p/3407453.html)
+ - [移动web资源整理](http://www.cnblogs.com/PeunZhang/p/3407453.html)
  - [美丽的css在线样式](http://cssdeck.com/picks/2)
  - [css术语](http://apps.workflower.fi/vocabs/)
  - [div盒子跟图片垂直居中水平的方法](http://www.geekna.com/div-box-img-center/)
  - [宽度高度不固定的div 如何水平居中以及垂直居中](http://www.educity.cn/jianzhan/630483.html)
- -   [如何让css3Border Radius 支持ie8一下浏览器](http://www.hongkiat.com/blog/css3-border-radius-in-internet-explorer/)
- -  [进度条样式，支持ie7](http://w3lessons.info/2013/06/04/skill-bar-with-jquery-css3/)
- -   [如何用sass通过修改变量切换样式](http://www.geekna.com/sass_note/)
- -  [css渐变工具](http://www.css3factory.com/linear-gradients/)
+ - [如何让css3Border Radius 支持ie8一下浏览器](http://www.hongkiat.com/blog/css3-border-radius-in-internet-explorer/)
+ - [进度条样式，支持ie7](http://w3lessons.info/2013/06/04/skill-bar-with-jquery-css3/)
+ - [如何用sass通过修改变量切换样式](http://www.geekna.com/sass_note/)
+ - [css渐变工具](http://www.css3factory.com/linear-gradients/)
  - [compass配置map](http://www.sassplus.com/sass/152.html)
  - [奥森图标（Font Awesome 支持ie7）](http://www.thinkcmf.com/font)
  - [Css Hack 大全](http://www.webhj.com/hj-650.html)
@@ -62,7 +62,7 @@ gulp/fis
 Git：
 
  - [git - 简明指南](http://www.runoob.com/manual/git-guide/)
- -  [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
+ - [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
 
 Web前端优化：
 
@@ -71,6 +71,7 @@ Web前端优化：
  - [移动H5前端性能优化指南](http://blog.csdn.net/kongjiea/article/details/43967219)
  - [HTTP/2 与 WEB 性能优化](https://imququ.com/post/http2-and-wpo-1.html)
  - [免费web的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN#web)
+ - [一小时包教会 —— webpack 入门指南](http://www.w2bc.com/Article/50764)
 
 其他：
 
