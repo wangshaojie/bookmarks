@@ -64,7 +64,7 @@ Git：
  - [git - 简明指南](http://www.runoob.com/manual/git-guide/)
  - [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
 
-Web前端优化：
+Web前端自动化&&优化：
 
  - [Web前端优化最佳实践及工具集锦](http://www.csdn.net/article/2013-09-23/2817020-web-performance-optimization)
  - [前端性能优化最佳实践](https://csspod.com/frontend-performance-best-practices/#content-http)
@@ -72,7 +72,7 @@ Web前端优化：
  - [HTTP/2 与 WEB 性能优化](https://imququ.com/post/http2-and-wpo-1.html)
  - [免费web的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN#web)
  - [一小时包教会 —— webpack 入门指南](http://www.w2bc.com/Article/50764)
-
+ - [最屌的gulp介绍及技巧](http://www.cnblogs.com/2050/p/4198792.html)
 其他：
 
  - [常用的web组件](http://www.open-open.com/lib/view/open1426560455039.html)
