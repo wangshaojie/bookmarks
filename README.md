@@ -64,6 +64,7 @@ Git：
  - [git - 简明指南](http://www.runoob.com/manual/git-guide/)
  - [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
  - [教你上传本地代码到github](http://blog.csdn.net/hanhailong726188/article/details/46738929)
+ - [Git常用命令](http://www.cnblogs.com/cspku/articles/Git_cmds.html)
 
 Web前端自动化&&优化：
 
