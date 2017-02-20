@@ -75,6 +75,7 @@ Web前端自动化&&优化：
  - [免费web的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN#web)
  - [一小时包教会 —— webpack 入门指南](http://www.w2bc.com/Article/50764)
  - [最屌的gulp介绍及技巧](http://www.cnblogs.com/2050/p/4198792.html)
+
 其他：
 
  - [常用的web组件](http://www.open-open.com/lib/view/open1426560455039.html)
@@ -82,6 +83,7 @@ Web前端自动化&&优化：
  - [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
  - [从输入 URL 到页面加载完成的过程中都发生了什么事情？](http://div.io/topic/457)
  - [直接拿来用！最火前端开源项目](http://www.csdn.net/article/1970-01-01/2816017)
+ - [Tomcat：基础安装和使用教程](http://www.cnblogs.com/happyframework/p/3344169.html)
 nodeJs：
 
  - [Node.js server.address().address returns ::](http://stackoverflow.com/questions/33853695/node-js-server-address-address-returns/33854153)
