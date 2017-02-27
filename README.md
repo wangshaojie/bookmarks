@@ -27,13 +27,18 @@ Css:
  - [奥森图标（Font Awesome 支持ie7）](http://www.thinkcmf.com/font)
  - [Css Hack 大全](http://www.webhj.com/hj-650.html)
  - [sass在线编译](http://www.sassmeister.com/)
+ 
+
 
 Javaccript/jQuery：
-
  - [移动端原生JS实现手指跟随的触控滑动](https://segmentfault.com/a/1190000003817077)
  - [你可能不知道jQuery的事情](http://ejohn.org/apps/workshop/adv-talk/#1)
  - [创建一个jQuery插件](http://devheart.org/articles/tutorial-creating-a-jquery-plugin/)
  - [50个必备的实用jQuery代码段](http://www.bywei.cn/post/207.html)
+
+
+移动开发:
+ -[h5开发的CSS篇](http://www.sunnypuma.com/%E7%A7%BB%E5%8A%A8%E7%AB%AF%20h5%E5%BC%80%E5%8F%91%E7%9B%B8%E5%85%B3%E5%86%85%E5%AE%B9%E6%80%BB%E7%BB%93CSS%E7%AF%87.html#0-sqq-1-33584-9737f6f9e09dfaf5d3fd14d775bfee85)
 
 AngularJs：
 
